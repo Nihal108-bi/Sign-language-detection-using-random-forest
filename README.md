@@ -89,13 +89,13 @@ Open **http://localhost:your-port/** in your browser and start recognizing ISL s
 We welcome contributions! If you'd like to improve MudraVani, please **fork the repository, create a feature branch, and submit a pull request.**
 
 ### Contributors 👥
-- [Your Name] – Founder & Developer
+- [Nihal jaiswal] – Founder & Developer
 - [Contributor 2] – ML Specialist
 - [Contributor 3] – UI/UX Designer
 
 ---
 
 ## 📞 Contact
-For queries, feel free to reach out at **your-email@example.com** or open an issue in this repo.
+For queries, feel free to reach out at **nihaljaisawal1@gmail.com** or open an issue in this repo.
 
 🌟 **If you like this project, give it a star!** ⭐
